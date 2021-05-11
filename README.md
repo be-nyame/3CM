@@ -17,7 +17,7 @@
 
 - ### Credits / Resources
   - #### Full Stack Web 
-    <a href="http://www.codecoast.com.gh/ target="_blank"">Pre-mest, Code Coast</a>
+    <a href="http://www.codecoast.com.gh/" target="_blank">Pre-mest, Code Coast</a>
   - #### Crowd Counting Model Repository
     <a target="_blank" href="https://github.com/xhp-hust-2018-2011/SS-DCNet">SS-DCNet Github Repository</a>.
   - #### Crowd Counting Paper

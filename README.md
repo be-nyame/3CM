@@ -6,9 +6,12 @@
   Windows 10
 
 - ### Requirements
-  react 17.0.2 <br>
-  express 4.17.1 <br>
-  mongoose 5.12.3 <br>
-  flask <br>
-  pytorch <br>
-  tailwind 
+  - #### Web Stack
+    react 17.0.2 <br>
+    express 4.17.1 <br>
+    mongoose 5.12.3 <br>
+    tailwind <br>
+    flask 
+  - #### Machine Learning
+    pytorch <br>
+   

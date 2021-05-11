@@ -10,7 +10,7 @@
     react 17.0.2 <br>
     express 4.17.1 <br>
     mongoose 5.12.3 <br>
-    tailwind <br>
+    tailwindcss 2.1.0 <br>
     flask 1.1.2
   - #### Machine Learning
     pytorch 1.8.1

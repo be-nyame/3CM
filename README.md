@@ -11,9 +11,9 @@
     express 4.17.1 <br>
     mongoose 5.12.3 <br>
     tailwind <br>
-    flask 
+    flask 1.1.2
   - #### Machine Learning
-    pytorch <br>
+    pytorch 1.8.1
 
 - ### Credits / Resources
   - #### Full Stack Web 
@@ -23,5 +23,5 @@
   - #### Crowd Counting Paper
     <a href="https://arxiv.org/abs/1908.06473" target="_blank">From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting</a>
   - #### Copy-Right-Free Images
-    <a target="_blank" href="https://pixabay.com/">pixabay</a>
+    <a target="_blank" href="https://pixabay.com/">Pixabay</a>
 

@@ -14,6 +14,8 @@
     flask 1.1.2
   - #### Machine Learning
     pytorch 1.8.1
+    
+ - #### Find full required packages in the package.json files.
 
 - ### Credits / Resources
   - #### Full Stack Web 
